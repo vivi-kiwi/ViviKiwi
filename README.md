@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @KurtleKiwi
 - 👀 I’m interested in making games
-- 🌱 I’m currently learning Software Engineering
+- 🌱 I’m currently in Software Engineering Technology
