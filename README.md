@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @KurtleKiwi
+- 👋 Hi, I’m @KeiraKiwi
 - 👀 I’m interested in making games
-- 🌱 I’m currently in Software Engineering Technology
+- 🌱 I’m currently in Software Engineering Technology at Conestoga College
