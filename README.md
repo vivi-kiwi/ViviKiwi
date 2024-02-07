@@ -1,2 +1,2 @@
 - 👀 I’m interested in making games
-- 🌱 I’m currently in Software Engineering Technology at Conestoga College
+- 🌱 I’m currently in Software Engineering Technician at Conestoga College
